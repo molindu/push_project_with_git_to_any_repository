@@ -5,5 +5,5 @@
 3. git add .
 4. git commit -m "Initial"
 5. git remote add origin paste repo link + enter
-6. git push origin master
-
+6. to verify - git remote -v
+7. git push origin master
