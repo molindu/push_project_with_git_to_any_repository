@@ -4,6 +4,6 @@
 2. git init
 3. git add .
 4. git commit -m "Initial"
-5. paste repo link + enter
+5. git remote origin paste repo link + enter
 6. git push origin master
 
