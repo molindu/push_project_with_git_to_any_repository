@@ -34,13 +34,13 @@ important
 update codes to anther branch 
      * git checkout your-another-branch
      * git merge main
-     # /*Add the resolved files*/
-       *git add .
+     # Add the resolved files
+       git add .
 
      # Commit the changes
-        *git commit -m "Merged changes from main branch"
+       git commit -m "Merged changes from main branch"
 
-     *git push origin your-another-branch
+       git push origin your-another-branch
 
 
 link- https://chat.openai.com/share/517098ee-a46c-4993-9a2e-ee114f92b80b
