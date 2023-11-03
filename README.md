@@ -44,3 +44,8 @@ update codes to anther branch
 
 
 link- https://chat.openai.com/share/517098ee-a46c-4993-9a2e-ee114f92b80b
+
+# ERROR
+# When error comes while pushing 
+# Follow this 
+link - https://github.com/curl/curl/issues/11353#issuecomment-1687169241
