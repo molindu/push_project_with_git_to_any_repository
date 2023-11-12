@@ -31,7 +31,7 @@ important
 
 ############################################################################
 
-update codes to anther branch 
+# update codes to anther branch 
      git checkout your-another-branch
      git merge main
      # Add the resolved files
