@@ -8,7 +8,7 @@
 6. to verify - git remote -v
 7. git push origin master
 
-important
+# important
   * when u use vs code commit the code and push through the cmd using this - git push origin branch_name
   * If You want to change the branch see below code
 
