@@ -58,7 +58,7 @@ fatal: the remote end hung up unexpectedly"
 link - https://github.com/curl/curl/issues/11353#issuecomment-1687169241
 
 # git pull origin master 
-* update the code and commits
+* update the code and commits from remote branch
 
 # git fetch origin master
 * update reference from remote branch
