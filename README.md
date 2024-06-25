@@ -56,3 +56,10 @@ fatal: the remote end hung up unexpectedly"
 * git config --global http.version HTTP/1.1, push, then git config --global http.version HTTP/2
 # Follow this 
 link - https://github.com/curl/curl/issues/11353#issuecomment-1687169241
+
+# git pull origin master 
+* update the code and commits
+
+# git fetch origin master
+* update reference from remote branch
+ * now use **git rebase origin/master**
