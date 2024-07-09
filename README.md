@@ -9,6 +9,10 @@
 7. git push origin master
 
 * git status - display the branches
+# find commited but unpushed
+
+* git log origin/your-branch..HEAD
+
 # important
   * when u use vs code commit the code and push through the cmd using this - git push origin branch_name
   * If You want to change the branch see below code
