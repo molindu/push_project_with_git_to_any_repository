@@ -71,3 +71,5 @@ link - https://github.com/curl/curl/issues/11353#issuecomment-1687169241
 # clone from github branch
 * git clone -b branch-name --single-branch repository-url
 
+# if it is main branch 
+* git clone repository-url
