@@ -67,3 +67,7 @@ link - https://github.com/curl/curl/issues/11353#issuecomment-1687169241
 # git fetch origin master
 * update reference from remote branch
  * now use **git rebase origin/master**
+
+# clone from github branch
+* git clone -b branch-name --single-branch repository-url
+
