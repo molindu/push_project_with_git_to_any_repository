@@ -143,6 +143,7 @@ echo world >> file1.txt  - modify file1.txt
 # git log --oneline --reverse
 * shows commits start to end
 
+***watch video at 57.24min***
 
 
 
