@@ -145,6 +145,12 @@ echo world >> file1.txt  - modify file1.txt
 
 ***watch video at 57.24min***
 
+# git restore --staged file1.js
+* file1.js changes unstage again.
+
+# git restore --source=HEAD~1 file1.js
+
+
 
 
 
